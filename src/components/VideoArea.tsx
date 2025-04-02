@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import styled from 'styled-components';
 import userIcon1 from '../assets/user-icon-1.svg';
 import userIcon2 from '../assets/user-icon-2.svg';

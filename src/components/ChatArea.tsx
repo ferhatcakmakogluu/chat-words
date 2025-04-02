@@ -2,8 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import userIcon1 from '../assets/user-icon-1.svg';
 import userIcon2 from '../assets/user-icon-2.svg';
-import userIcon3 from '../assets/user-icon-3.svg';
-import userIcon4 from '../assets/user-icon-4.svg';
 
 const ChatContainer = styled.div`
   width: 320px;
