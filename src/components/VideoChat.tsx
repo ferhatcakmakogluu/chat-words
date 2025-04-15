@@ -135,7 +135,7 @@ const VideoChat: React.FC = () => {
     },
     {
       id: '3',
-      name: 'Serra KÜÇÜK',
+      name: 'Ferhat KÜÇÜK',
       avatar: '',
       title: 'Proje Yöneticisi',
       bio: 'Merhaba! Ben Serra.',
